@@ -73,9 +73,18 @@
 				"description_3": "Worked with Node Package Management (NPM) for configuring the project according to needs"
 			},
 			{
+				"company": "The British Museum",
+				"title": "Visitor experience evaluation Volunteer",
+				"location": "London, England",
+				"years": "May 2018 - July 2018",
+				"description_1": "Cooperated with an interdisciplinary four-member team in London to investigate and evaluate the visitor experience in the redesigned Room 33 at the British Museum",
+				"description_2": "Collected data from 100 visitors with designed Excel worksheet and created data visualization with Tableau",
+				"description_3": "Interpreted and analyzed the correlations between data and then produced comprehensive report to the British Museum for future improvement"
+			},
+			{
 				"company": "Brigham and Women's Faulkner Hospital",
 				"title": "Software Engineer Intern",
-				"location": "Shenzhen, China",
+				"location": "Boston, Massachusetts",
 				"years": "October 2017 - December 2017",
 				"description_1": "Developed a Kiosk Navigation Application for the B&W Hospital that allows users to navigate in the B&W Hospital using Java, JavaFX and Derby on an Agile team",
 				"description_2": "Collaborated with team on implementing new features and modern UI in an Agile environment",
